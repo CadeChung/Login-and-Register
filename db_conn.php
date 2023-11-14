@@ -1,7 +1,7 @@
 <?php 
     $sname = "localhost";
-    $unmae = "root";
-    $password = "kdais@123";
+    $unmae = "username";
+    $password = "password";
 
     $db_name = "my_db";
 
